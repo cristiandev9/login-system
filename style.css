@@ -1,5 +1,5 @@
 body{
-    background-image: linear-gradient(to right, #033761, #033761);
+    background: #022144;
     overflow: hidden;
     font-family: 'Ubuntu', sans-serif;
 
@@ -17,7 +17,7 @@ input{
 }
 
 a{
-    color:#0072E1;
+    color:#2496ED;
 }
 
 .section-main{
@@ -47,7 +47,7 @@ a{
 
 .enter-button{
     margin-top:1.7rem;
-    background:#0072E1;
+    background:#2496ED;
     color:#fff;
     font-weight: 600;
     width: 100%;
